@@ -4,7 +4,7 @@
 </a>
 
 <!-- Content -->
-<h1 align="center">WELCOME TO THE HEIST
+<h1 align="center">WELCOME TO THE HEIST</h1>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
