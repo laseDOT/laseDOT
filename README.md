@@ -5,28 +5,30 @@
 
 
 <!-- Content -->
-<h1 align="center">INFO</h1>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <br><br>
 
 <h3 align="left">
-- 🔭 I’m currently open to a new Job
+Informations
  
-- 🌱 I’m currently learning **Devops**
+- Hey its laseDOT aka LASEE (Lase Morelli)
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- Age: 26
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- Location: Bosnia and Herzegowina
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- Gamer, Designer, Coder
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 How to reach me **lasemorelli@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 </h3>
 
-<br>
+<br><br>
+
+<!-- Content2 -->
+
+<!-- Footer -->
 <h1 align="center">Languages and Tools</h1>
 
 - Design
@@ -70,9 +72,6 @@
     soon
   </a>
 </p>
-
-
-<br/>
 
 
 
