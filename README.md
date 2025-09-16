@@ -77,12 +77,5 @@ Side Informations
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    soon
-  </a>
-</p>
-
 
 
