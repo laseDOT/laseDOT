@@ -1,6 +1,6 @@
 <!-- Header -->
 <a href="https://github.com/laseDOT"> 
- <img align="center" src="./images/github-prifle_header.png" width="100%">    
+ <img align="center" src="./images/github-prifle_header1.png" width="100%">    
 </a>
 
 <!-- Content -->
