@@ -24,6 +24,17 @@ Informations
 
 </h3>
 
+<br>
+<h3 align="left">
+ 
+Side Informations
+- SAMP Mapper, SAMP Developer || SAMP Owner -> Zara Gaming RPG
+- Teamspeak Manager
+- Discord Manager & Developer
+- Designer
+
+</h3>
+
 <br><br>
 
 <!-- Content2 -->
